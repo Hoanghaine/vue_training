@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "type": "expense",
+    "category": "Salary2",
+    "amount": 1500,
+    "date": "2025-11-01"
+  },
+  {
+    "id": 2,
+    "type": "expense",
+    "category": "Groceries",
+    "amount": 200,
+    "date": "2025-11-03"
+  }
+]
